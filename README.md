@@ -133,5 +133,5 @@
 
 <hr/>
 
-- Credit: [DevGaruda](https://github.com/DevGaruda)
+- Credit: [DevGaruda](https://github.com/DevGaruda) , [legendhimslef](https://github.com/legendhimslef)
 - Last Edited on: 20/09/2021
