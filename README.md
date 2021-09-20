@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Shubham Gupta also Known as Garuda. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student.;Front+End+Web+Developer.;Always%20learning%20new%20things.;Pro%20Gamer%20Too%20.%20.%20.&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=B.M.S+Student.;Front+End+Web+Developer.;Always%20learning%20new%20things.;Pro%20Gamer%20Too%20.%20.%20.&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">I'm a self taught, Front End Web developer, that went head first into coding and fell in love from the first lines of code I've written! Started coding around Feb of 2021, with JavaScript. Rightnow I am Good with Frontend.. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
