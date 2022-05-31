@@ -5,7 +5,7 @@
 <hr/>
 <h4 align="center">I'm a self taught, Front End Web developer, that went head first into coding and fell in love from the first lines of code I've written! Started coding around Feb of 2021, with JavaScript. Rightnow I am Good with Frontend.. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=DevGaruda&label=Profile%20views&color=0e75b6&style=plastic" alt="DevGaruda" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SammDeveloper&label=Profile%20views&color=0e75b6&style=plastic" alt="SammDeveloper" /> </p>
 
 ## ✍ Key Notes
 
@@ -17,11 +17,11 @@
 
 ## 🔥 Streak Stats
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DevGaruda&theme=algolia" alt="DevGaruda"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SammDeveloper&theme=algolia" alt="SammDeveloper"  /></p>
 
 ## 🔥 Github Activities
 
-<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=DevGaruda&custom_title=Garuda's%20Contribution%20Graph&theme=react-dark" alt="DevGaruda"  /></p>
+<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=SammDeveloper&custom_title=Samm's%20Contribution%20Graph&theme=react-dark" alt="SammDeveloper"  /></p>
 
 ## 🛠️ My Skills
 
@@ -98,7 +98,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Garuda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DevGaruda&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Samm's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SammDeveloper&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevGaruda&show_icons=true&locale=en&layout=compact&theme=algolia" alt="DevGaruda" height="192px"/>
@@ -124,14 +124,14 @@
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://discord.gg/Z8xpTccUK2 "><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://discord.gg/kKqgGVqsXf "><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
   <br/>
 	<a href="mailto:sgdevpro@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/DevGaruda"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://github.com/SammDeveloper"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.instagram.com/ig_garudaa/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 
 <hr/>
 
-- Credit: [DevGaruda](https://github.com/DevGaruda) , [legendhimslef](https://github.com/legendhimslef)
-- Last Edited on: 20/09/2021
+- Credit: [DevGaruda](https://github.com/SammDeveloper) , [legendhimslef](https://github.com/legendhimslef)
+- Last Edited on: 01/06/2022
